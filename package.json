@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "mulai": "node soal-1.js && soal-2.js echo berhasil"
+    "mulai": "node soal-1.js && soal-2.js && echo berhasil"
     
   },
   "keywords": [],
